@@ -1,0 +1,15 @@
+{
+  "name": "@shez100x/easytypes",
+  "version": "1.0.0",
+  "description": " validation types to use for non auth routes or signin/signUp routes",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
